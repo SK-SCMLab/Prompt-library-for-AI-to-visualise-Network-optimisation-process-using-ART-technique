@@ -74,4 +74,20 @@ Like the self-consistency and ToT prompt techniques, ART is a prompting techniqu
 **Midjourney**: Logistics scenario comparison panel, graphs and sliders, KPI impact simulations -v 5 -ar 3:2 -style dashboard futuristic
 
 ### 7. KPI visualization & Decision support
-**Dall-E 2**: 
+**Dall-E 2**: Decision support center with big data dashboards showing supply chain KPIs: cost, service level, lead time, fill rate. Futuristic UI
+
+**Imagen**: Wall-mounted display in logistics control room showing key supply chain metrics with charts and guages
+
+**Stable diffusion**: Business dashboard with supply chain KPIs, performance metrics, heat maps, and timeline graphs
+
+**Midjourney**: Logistics KPI dashboard, cost and delivery metrics, futuristic command center -v 5 -ar 16:9 -style data-driven cyberlogistics
+
+---
+
+## 🐣 Requirements
+- Prompt Engineering fundamentals
+- Network optimisation basics
+
+---
+
+*"The key to Artificial Intelligence has always been the representation" -Jeff Hawkins*
